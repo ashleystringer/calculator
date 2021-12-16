@@ -1,0 +1,1 @@
+This application exists as a way to refresh my knowledge of certain design patterns, being based on two assignments I had in a software design course. I've decided to change certain aspects of those projects, and have decided to use Node.js and Express for the application. 
